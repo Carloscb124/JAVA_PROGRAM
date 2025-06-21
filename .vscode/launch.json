@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Terceiro",
+            "request": "launch",
+            "mainClass": "exercicios.Terceiro",
+            "projectName": "Java_Teste_80ba9d4b"
+        },
+        {
+            "type": "java",
+            "name": "Segundo",
+            "request": "launch",
+            "mainClass": "exercicios.Segundo",
+            "projectName": "Java_Teste_80ba9d4b"
+        },
+        {
+            "type": "java",
             "name": "Math",
             "request": "launch",
             "mainClass": "Math",
