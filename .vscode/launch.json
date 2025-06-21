@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "If",
+            "request": "launch",
+            "mainClass": "If",
+            "projectName": "Java_Teste_80ba9d4b"
+        },
+        {
+            "type": "java",
             "name": "Terceiro",
             "request": "launch",
             "mainClass": "exercicios.Terceiro",
